@@ -1,0 +1,9 @@
+{
+  "name": "ZenWorld Kids Dashboard",
+  "description": "A Zen-inspired curriculum dashboard for early childhood education, featuring an interactive syllabus and AI-powered lesson plan generation.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
